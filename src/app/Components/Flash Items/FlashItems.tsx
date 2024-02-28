@@ -18,10 +18,10 @@ const FlashItems = () => {
                 <div className="max-w-xs bg-white px-4 pt-4 pb-2 rounded-lg shadow-lg transform hover:scale-105 transition duration-500">
                     <h3 className="mb-3 text-lg font-bold text-indigo-600">Flash Sale</h3>
                     <div className="relative">
-                        <img className="w-full rounded-lg hover:scale-500 transition duration-500 cursor-pointer object-cover" src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="Colors" />
+                        <img className="w-full rounded-lg hover:scale-500 transition duration-500 cursor-pointer object-cover" src="/soundbox.png" alt="Colors" />
                         <p className="absolute top-0 bg-yellow-300 text-gray-800 font-semibold py-1 px-2 rounded-br-lg rounded-tl-lg">60%</p>
                     </div>
-                    <h1 className="mt-2 text-gray-800 text-lg font-semibold cursor-pointer">A Dummy Product</h1>
+                    <h1 className="mt-2 text-gray-800 text-lg font-semibold cursor-pointer">A Soundbox</h1>
                     <div className="my-2">
                         <div className="flex items-center space-x-1">
                             <span>
@@ -29,7 +29,7 @@ const FlashItems = () => {
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                                 </svg>
                             </span>
-                            <p className="font-bold">TIme Remaining</p><p>1:34:23 Minutes</p>
+                            <p className="font-bold">TIme Remaining</p><p>1:34:23 Hours</p>
                         </div>
                         <div className="flex items-center space-x-1">
                             <span>
@@ -61,10 +61,10 @@ const FlashItems = () => {
                 <div className="max-w-xs bg-white px-4 pt-4 pb-2 rounded-lg shadow-lg transform hover:scale-105 transition duration-500">
                 <h3 className="mb-3 text-lg font-bold text-indigo-600">Flash Sale</h3>
                     <div className="relative">
-                        <img className="w-full rounded-lg" src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="Colors" />
+                        <img className="w-full rounded-lg" src="/soundbox.png" alt="Colors" />
                         <p className="absolute top-0 bg-yellow-300 text-gray-800 font-semibold py-1 px-2 rounded-br-lg rounded-tl-lg">60%</p>
                     </div>
-                    <h1 className="mt-2 text-gray-800 text-lg font-semibold cursor-pointer">A Dummy Product</h1>
+                    <h1 className="mt-2 text-gray-800 text-lg font-semibold cursor-pointer">A Soundbox</h1>
                     <div className="my-2">
                         <div className="flex items-center space-x-1">
                             <span>
@@ -72,7 +72,7 @@ const FlashItems = () => {
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                                 </svg>
                             </span>
-                            <p className="font-bold">TIme Remaining</p><p>1:34:23 Minutes</p>
+                            <p className="font-bold">TIme Remaining</p><p>1:34:23 Hours</p>
                         </div>
                         <div className="flex items-center space-x-1">
                             <span>
@@ -103,10 +103,10 @@ const FlashItems = () => {
                 <div className="max-w-xs bg-white px-4 pt-4 pb-2 rounded-lg shadow-lg transform hover:scale-105 transition duration-500">
                 <h3 className="mb-3 text-lg font-bold text-indigo-600">Flash Sale</h3>
                     <div className="relative">
-                        <img className="w-full rounded-lg" src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="Colors" />
+                        <img className="w-full rounded-lg" src="/soundbox.png" alt="Colors" />
                         <p className="absolute top-0 bg-yellow-300 text-gray-800 font-semibold py-1 px-2 rounded-br-lg rounded-tl-lg">60%</p>
                     </div>
-                    <h1 className="mt-2 text-gray-800 text-lg font-semibold cursor-pointer">A Dummy Product</h1>
+                    <h1 className="mt-2 text-gray-800 text-lg font-semibold cursor-pointer">A Soundbox</h1>
                     <div className="my-2">
                         <div className="flex items-center space-x-1">
                             <span>
@@ -114,7 +114,7 @@ const FlashItems = () => {
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                                 </svg>
                             </span>
-                            <p className="font-bold">TIme Remaining</p><p>1:34:23 Minutes</p>
+                            <p className="font-bold">TIme Remaining</p><p>1:34:23 Hours</p>
                         </div>
                         <div className="flex items-center space-x-1">
                             <span>
@@ -145,10 +145,10 @@ const FlashItems = () => {
                 <div className="max-w-xs bg-white px-4 pt-4 pb-2 rounded-lg shadow-lg transform hover:scale-105 transition duration-500">
                 <h3 className="mb-3 text-lg font-bold text-indigo-600">Flash Sale</h3>
                     <div className="relative">
-                        <img className="w-full rounded-lg" src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="Colors" />
+                        <img className="w-full rounded-lg" src="/soundbox.png" alt="Colors" />
                         <p className="absolute top-0 bg-yellow-300 text-gray-800 font-semibold py-1 px-2 rounded-br-lg rounded-tl-lg">60%</p>
                     </div>
-                    <h1 className="mt-2 text-gray-800 text-lg font-semibold cursor-pointer">A Dummy Product</h1>
+                    <h1 className="mt-2 text-gray-800 text-lg font-semibold cursor-pointer">A Soundbox</h1>
                     <div className="my-2">
                         <div className="flex items-center space-x-1">
                             <span>
@@ -156,7 +156,7 @@ const FlashItems = () => {
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                                 </svg>
                             </span>
-                            <p className="font-bold">TIme Remaining</p><p>1:34:23 Minutes</p>
+                            <p className="font-bold">TIme Remaining</p><p>1:34:23 Hours</p>
                         </div>
                         <div className="flex items-center space-x-1">
                             <span>

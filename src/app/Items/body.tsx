@@ -1,14 +1,15 @@
 "use client";
 
 import React from "react";
+
 import toast, { Toaster } from 'react-hot-toast';
 
 const notify = () => toast('Item added successfully.');
 
-const RecommendedItems = () => {
-    return (
+const Iteams = () => {
+    return(
         <div className="mt-20">
-            <h1 className="text-4xl text-center font-bold text-indigo-600">Recommended For You</h1>
+            <h1 className="text-4xl text-center font-bold text-indigo-600">Category: Gadgets</h1>
             <hr className="w-3/4 m-auto" />
         
         <div className="min-h-screen bg-white flex justify-center items-center py-20">
@@ -371,5 +372,4 @@ const RecommendedItems = () => {
         </div>
     );
 }
-
-export default RecommendedItems;
+export default Iteams;

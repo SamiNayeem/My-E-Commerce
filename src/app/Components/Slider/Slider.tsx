@@ -15,7 +15,7 @@ const Slider = () => {
   };
 
   useEffect(() => {
-    const interval = setInterval(handleNextSlide, 5000); // Change slide every 5 seconds
+    const interval = setInterval(handleNextSlide, 4000); // Change slide every 4 seconds
 
     return () => clearInterval(interval); // Cleanup function to clear interval when component unmounts
   }, [currentSlide]);
@@ -24,7 +24,7 @@ const Slider = () => {
     <main>
       <div className="relative">
         {/* Slide images */}
-        <div className="relative w-full h-96 overflow-hidden">
+        <div className=" w-full h-96 overflow-hidden">
           {slides.map((slide, index) => (
             <div
               key={index}

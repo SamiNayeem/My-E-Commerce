@@ -4,6 +4,10 @@ import Image from "next/image";
 const Privilages = () => {
     return(
         <main>
+            <div className="mt-20"> 
+            <h1 className="text-4xl text-center font-bold text-indigo-600">Why Choose Us?</h1>
+            <hr className="w-3/4 m-auto" />
+            </div>
             <section className="service w-3/4 m-auto rounded-3xl h-[200px] bg-indigo-600 flex flex-wrap mt-20 sm:px-10 py-8">
                 {/* <h1>Our services</h1> */}
                 <div className="service1 bg-white h-[100px] w-[100px] rounded-full ml-20 justify-center items-center sm:my-0 sm:mr-4">
